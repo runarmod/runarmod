@@ -1353,7 +1353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jenslys/autovod</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Automatically upload Twitch VODS in realtime to Youtube. With no video stored on the disk.</div>
@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jenslys/nrkdl</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Download content from nrk.no with subtitles and metadata.</div>
@@ -1491,7 +1491,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Nov 2022, 23:10:47 (timezone Europe/Oslo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 00:12:03 (timezone Europe/Oslo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
