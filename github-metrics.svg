@@ -1344,7 +1344,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danielmiessler/SecLists</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.</div>
@@ -1547,7 +1547,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Sept 2023, 19:08:49 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Sept 2023, 20:12:20 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
