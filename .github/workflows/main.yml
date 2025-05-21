@@ -43,5 +43,6 @@ jobs:
           plugin_lines: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: runarmod.no
+          plugin_pagespeed_token: ${{ secrets.PLUGIN_PAGESPEED_TOKEN }}
           plugin_stars: yes
           plugin_stars_limit: 4
