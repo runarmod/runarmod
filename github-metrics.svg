@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>j178/prek</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.</div>
@@ -1583,7 +1583,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Apr 2026, 13:30:05 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Apr 2026, 14:44:38 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
