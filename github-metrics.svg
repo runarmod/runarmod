@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>netromdk/vermin</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Concurrently detect the minimum Python versions needed to run code</div>
@@ -1601,7 +1601,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2026, 00:19:06 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 01:19:01 (timezone Europe/Oslo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
